@@ -1,17 +1,17 @@
 # [Spirited Quarantini]( https://spiritedquarantini.netlify.app/)
 
-# Project By: [Alex Sodemann](https://github.com/asodemann18), [Becca Steinbrecher](https://github.com/b-stein), [Léah Winters](https://github.com/LeahWinters), and [Melissa VanKempen](https://github.com/Melizzo)
+## Project By: [Alex Sodemann](https://github.com/asodemann18), [Becca Steinbrecher](https://github.com/b-stein), [Léah Winters](https://github.com/LeahWinters), and [Melissa VanKempen](https://github.com/Melizzo)
 
-# About 
+## About 
 Spirited Quarantini helps teach users how to bartend from the comfort of their own home. The user has access to 100 cocktail recipes and can learn how to make delicious, refreshing beverages with confidence. Users can login (if they are over 21) and see a list of cocktails and their instructions.  They can also view a randomized cocktail of the day.  The user has the ability to search cocktails by ingredient/name, save a drink to view later, and mark a drink as made.
 
 Cocktail information is being pulled from [The Cocktail Database](https://www.thecocktaildb.com/) api. 
 
-# Project Goals
+## Project Goals
 * Implement a new technology within React: TypeScript and React Hooks
 * Cover application with a robust testing suite, using Jest and React Testing Library
 
-# In Action
+## In Action
 
 ### Logging in, viewing drinks
 ![Login](https://media.giphy.com/media/XZrRlEYaqpQHBfrv1M/giphy.gif)
