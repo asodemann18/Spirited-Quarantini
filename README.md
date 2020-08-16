@@ -26,7 +26,7 @@ Cocktail information is being pulled from [The Cocktail Database](https://www.th
 ![App Functionality](https://media.giphy.com/media/TgPBFzkLkQ1rkmdHi6/giphy.gif)
 
 ## Setup
-[View it here.](https://spiritedquarantini.netlify.app/)
+View it [here](https://spiritedquarantini.netlify.app/).
 
 Download Instructions: 
 ```bash 
